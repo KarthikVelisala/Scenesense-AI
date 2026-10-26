@@ -1,7 +1,3 @@
-"""
-routes/history_route.py
-GET /history – returns paginated caption history from MongoDB.
-"""
 
 from __future__ import annotations
 
