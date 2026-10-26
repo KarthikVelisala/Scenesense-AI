@@ -2,7 +2,6 @@
 routes/auth_route.py
 Auth blueprint: signup, verify-otp, resend-otp, login.
 """
-
 from __future__ import annotations
 
 import logging
