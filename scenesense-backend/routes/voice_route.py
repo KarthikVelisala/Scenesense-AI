@@ -1,7 +1,3 @@
-"""
-routes/voice_route.py
-POST /voice – converts text to speech and returns the audio file URL.
-"""
 
 from __future__ import annotations
 
