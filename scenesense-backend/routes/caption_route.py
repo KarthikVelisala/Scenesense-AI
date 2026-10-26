@@ -1,7 +1,4 @@
-"""
-routes/caption_route.py
-POST /caption – generates an English caption for a previously uploaded image.
-"""
+
 
 from __future__ import annotations
 
