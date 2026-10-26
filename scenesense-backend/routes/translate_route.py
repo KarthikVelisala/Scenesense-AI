@@ -1,7 +1,3 @@
-"""
-routes/translate_route.py
-POST /translate – translates a caption to the requested language.
-"""
 
 from __future__ import annotations
 
