@@ -46,7 +46,6 @@ const AIFeatures = () => {
 
                 <div className="grid lg:grid-cols-2 gap-16 items-center">
 
-                    {/* Left Text Content */}
                     <motion.div
                         initial={{ opacity: 0, x: -50 }}
                         whileInView={{ opacity: 1, x: 0 }}
