@@ -1,7 +1,3 @@
-"""
-routes/upload_route.py
-POST /upload – accepts a multipart image, saves it, returns the filename.
-"""
 
 from __future__ import annotations
 
